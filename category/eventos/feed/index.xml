@@ -8,22 +8,22 @@
 	>
 
 <channel>
-	<title>Eventos &#8211; Gran Malecón</title>
+	<title>Eventos Archives - Gran Malecón del Río</title>
 	<atom:link href="/category/eventos/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/eventos/</link>
 	<description></description>
 	<lastBuildDate>Mon, 20 Nov 2023 22:52:09 +0000</lastBuildDate>
-	<language>es</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/05/cropped-favicon-32x32.png</url>
-	<title>Eventos &#8211; Gran Malecón</title>
-	<link>/</link>
+	<url>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/05/11140157/cropped-favicon-32x32.png</url>
+	<title>Eventos Archives - Gran Malecón del Río</title>
+	<link>/category/eventos/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -36,7 +36,11 @@
 				<category><![CDATA[Eventos]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=3596</guid>
 
-					<description><![CDATA[El domingo 17 de septiembre se llevó a cabo el concurso de cometas, en el marco del V Festival, que el Gran Malecón realiza para homenajear a esta tradición de barrio que adorna el cielo de la ciudad y moviliza a los ciudadanos a volar sus creaciones, en familia. Al igual que en años anteriores, en esta versión se eligieron<div class="h10"></div><a class="more-link1" href="/el-cielo-del-gran-malecon-se-embellecio-con-cientos-de-cometas-en-la-v-edicion-de-su-festival/">Read more</a>]]></description>
+					<description><![CDATA[<p>El domingo 17 de septiembre se llevó a cabo el concurso de cometas, en el marco del V Festival, que el Gran Malecón realiza para homenajear a esta tradición de barrio que adorna el cielo de la ciudad y moviliza a los ciudadanos a volar sus creaciones, en familia. Al igual que en años anteriores, en esta versión se eligieron</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/el-cielo-del-gran-malecon-se-embellecio-con-cientos-de-cometas-en-la-v-edicion-de-su-festival/">Read more</a></p>
+<p>The post <a href="/el-cielo-del-gran-malecon-se-embellecio-con-cientos-de-cometas-en-la-v-edicion-de-su-festival/">El cielo del Gran Malecón se embelleció con cientos de cometas en la V edición de su festival</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>El domingo 17 de septiembre se llevó a cabo el concurso de cometas, en el marco del V Festival, que el Gran Malecón realiza para homenajear a esta tradición de barrio que adorna el cielo de la ciudad y moviliza a los ciudadanos a volar sus creaciones, en familia.</p>
 
@@ -46,7 +50,7 @@
 
 
 
-<ol><li>Mayor tiempo de vuelo: Wilmer Ariza</li><li>Cometa más creativa: Armando Vesga</li><li>Cometa más grande: Doris de la Rans </li></ol>
+<ol class="wp-block-list"><li>Mayor tiempo de vuelo: Wilmer Ariza</li><li>Cometa más creativa: Armando Vesga</li><li>Cometa más grande: Doris de la Rans </li></ol>
 
 
 
@@ -67,7 +71,8 @@
 
 
 <p><br>Marcas como Kia Fujiyama, Ortopédicos y Droguería Futuro, Postobón, Triple A y Palettipop&nbsp;(punto comercial del Gran Malecón) hicieron posible esta edición del festival al sumarse como aliados para la entrega de reconocimientos que recibieron los ganadores del concurso de cometas. </p>
- ]]></content:encoded>
+ <p>The post <a href="/el-cielo-del-gran-malecon-se-embellecio-con-cientos-de-cometas-en-la-v-edicion-de-su-festival/">El cielo del Gran Malecón se embelleció con cientos de cometas en la V edición de su festival</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		

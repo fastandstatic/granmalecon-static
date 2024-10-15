@@ -8,22 +8,22 @@
 	>
 
 <channel>
-	<title>Agenda &#8211; Gran Malecón</title>
+	<title>Agenda Archives - Gran Malecón del Río</title>
 	<atom:link href="/category/agenda/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/agenda/</link>
 	<description></description>
 	<lastBuildDate>Wed, 15 Nov 2023 11:21:48 +0000</lastBuildDate>
-	<language>es</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/05/cropped-favicon-32x32.png</url>
-	<title>Agenda &#8211; Gran Malecón</title>
-	<link>/</link>
+	<url>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/05/11140157/cropped-favicon-32x32.png</url>
+	<title>Agenda Archives - Gran Malecón del Río</title>
+	<link>/category/agenda/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -34,10 +34,13 @@
 		<dc:creator><![CDATA[Gran Malecón]]></dc:creator>
 		<pubDate>Mon, 05 Dec 2022 14:37:47 +0000</pubDate>
 				<category><![CDATA[Agenda]]></category>
-		<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=2990</guid>
 
-					<description><![CDATA[¿QUÉ ENCONTRARÁS EN EL GRAN MALECÓN? A lo largo de los tres sectores del Gran Malecón (Sector Puerta de Oro, Sector Gastronómico y Sector Recreodeportivo) se encontrarán nueve mundos mágicos como resultado y producto de las manos de artesanos locales y un mancomunado esfuerzo de creatividad y talento para hacer de los sueños de la navidad una realidad por descubrir.<div class="h10"></div><a class="more-link1" href="/nueve-mundos-magicos-en-navidad/">Read more</a>]]></description>
+					<description><![CDATA[<p>¿QUÉ ENCONTRARÁS EN EL GRAN MALECÓN? A lo largo de los tres sectores del Gran Malecón (Sector Puerta de Oro, Sector Gastronómico y Sector Recreodeportivo) se encontrarán nueve mundos mágicos como resultado y producto de las manos de artesanos locales y un mancomunado esfuerzo de creatividad y talento para hacer de los sueños de la navidad una realidad por descubrir.</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/nueve-mundos-magicos-en-navidad/">Read more</a></p>
+<p>The post <a href="/nueve-mundos-magicos-en-navidad/">NUEVE MUNDOS MÁGICOS EN NAVIDAD</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><strong>¿QUÉ ENCONTRARÁS EN EL GRAN MALECÓN?</strong></p>
 
@@ -132,7 +135,8 @@
 
 
 <p>IG: @granmaleconbaq<br>TW: granmalecon_baq</p>
- ]]></content:encoded>
+ <p>The post <a href="/nueve-mundos-magicos-en-navidad/">NUEVE MUNDOS MÁGICOS EN NAVIDAD</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		
@@ -144,10 +148,13 @@
 		<dc:creator><![CDATA[Gran Malecón]]></dc:creator>
 		<pubDate>Mon, 05 Dec 2022 14:25:55 +0000</pubDate>
 				<category><![CDATA[Agenda]]></category>
-		<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=2972</guid>
 
-					<description><![CDATA[Este diciembre 2022 el Gran Malecón de Barranquilla se transforma en un Mundo de Sueños a orilla del Río Magdalena con un alumbrado navideño lleno de colores, historias de navidad y esperanza para las familias. Una invitación especial de la Alcaldía de Barranquilla y Alumbrado Público con la que ciudadanos y visitantes nacionales e internacionales encontrarán en su lugar favorito<div class="h10"></div><a class="more-link1" href="/en-diciembre-vive-un-mundo-de-suenos-en-el-gran-malecon/">Read more</a>]]></description>
+					<description><![CDATA[<p>Este diciembre 2022 el Gran Malecón de Barranquilla se transforma en un Mundo de Sueños a orilla del Río Magdalena con un alumbrado navideño lleno de colores, historias de navidad y esperanza para las familias. Una invitación especial de la Alcaldía de Barranquilla y Alumbrado Público con la que ciudadanos y visitantes nacionales e internacionales encontrarán en su lugar favorito</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/en-diciembre-vive-un-mundo-de-suenos-en-el-gran-malecon/">Read more</a></p>
+<p>The post <a href="/en-diciembre-vive-un-mundo-de-suenos-en-el-gran-malecon/">En Diciembre vive un Mundo de Sueños en el Gran Malecón</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Este diciembre 2022 el Gran Malecón de Barranquilla se transforma en un Mundo de Sueños a orilla del Río Magdalena con un alumbrado navideño lleno de colores, historias de navidad y esperanza para las familias.</p>
 
@@ -218,39 +225,39 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="722" data-id="2981" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.15.54-1024x722.jpeg" alt="" class="wp-image-2981" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.15.54-1024x722.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.15.54-300x212.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.15.54-768x542.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.15.54.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="722" data-id="2981" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-02-at-16.15.54-1024x722.jpeg" alt="" class="wp-image-2981" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-02-at-16.15.54-1024x722.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-02-at-16.15.54-300x212.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-02-at-16.15.54-768x542.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-02-at-16.15.54.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="678" data-id="2980" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1-1024x678.jpeg" alt="" class="wp-image-2980" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="678" data-id="2980" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.31.46-1-1024x678.jpeg" alt="" class="wp-image-2980" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.31.46-1-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.31.46-1-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.31.46-1-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.31.46-1-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.31.46-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="678" data-id="2978" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1024x678.jpeg" alt="" class="wp-image-2978" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.31.46.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="678" data-id="2978" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135654/WhatsApp-Image-2022-12-02-at-20.31.46-1024x678.jpeg" alt="" class="wp-image-2978" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135654/WhatsApp-Image-2022-12-02-at-20.31.46-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135654/WhatsApp-Image-2022-12-02-at-20.31.46-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135654/WhatsApp-Image-2022-12-02-at-20.31.46-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135654/WhatsApp-Image-2022-12-02-at-20.31.46-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135654/WhatsApp-Image-2022-12-02-at-20.31.46.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2985" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.32.41-1024x678.jpeg" alt="" class="wp-image-2985" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.32.41-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.32.41-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.32.41-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.32.41-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.32.41.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2985" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.32.41-1024x678.jpeg" alt="" class="wp-image-2985" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.32.41-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.32.41-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.32.41-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.32.41-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.32.41.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2982" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1-1024x678.jpeg" alt="" class="wp-image-2982" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2982" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.38.37-1-1024x678.jpeg" alt="" class="wp-image-2982" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.38.37-1-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.38.37-1-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.38.37-1-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.38.37-1-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135652/WhatsApp-Image-2022-12-02-at-20.38.37-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2975" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1-1024x678.jpeg" alt="" class="wp-image-2975" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2975" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135655/WhatsApp-Image-2022-12-02-at-20.38.38-1-1024x678.jpeg" alt="" class="wp-image-2975" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135655/WhatsApp-Image-2022-12-02-at-20.38.38-1-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135655/WhatsApp-Image-2022-12-02-at-20.38.38-1-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135655/WhatsApp-Image-2022-12-02-at-20.38.38-1-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135655/WhatsApp-Image-2022-12-02-at-20.38.38-1-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135655/WhatsApp-Image-2022-12-02-at-20.38.38-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2977" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1024x678.jpeg" alt="" class="wp-image-2977" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.38.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2977" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135651/WhatsApp-Image-2022-12-02-at-20.38.38-1024x678.jpeg" alt="" class="wp-image-2977" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135651/WhatsApp-Image-2022-12-02-at-20.38.38-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135651/WhatsApp-Image-2022-12-02-at-20.38.38-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135651/WhatsApp-Image-2022-12-02-at-20.38.38-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135651/WhatsApp-Image-2022-12-02-at-20.38.38-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135651/WhatsApp-Image-2022-12-02-at-20.38.38.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2987" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1024x678.jpeg" alt="" class="wp-image-2987" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-20.38.37.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2987" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.38.37-1024x678.jpeg" alt="" class="wp-image-2987" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.38.37-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.38.37-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.38.37-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.38.37-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135650/WhatsApp-Image-2022-12-02-at-20.38.37.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2979" src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-09.10.21-1-1024x678.jpeg" alt="" class="wp-image-2979" srcset="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-09.10.21-1-1024x678.jpeg 1024w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-09.10.21-1-300x199.jpeg 300w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-09.10.21-1-768x508.jpeg 768w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-09.10.21-1-1536x1017.jpeg 1536w, /wp-content/uploads/2022/12/WhatsApp-Image-2022-12-05-at-09.10.21-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="678" data-id="2979" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-05-at-09.10.21-1-1024x678.jpeg" alt="" class="wp-image-2979" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-05-at-09.10.21-1-1024x678.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-05-at-09.10.21-1-300x199.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-05-at-09.10.21-1-768x508.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-05-at-09.10.21-1-1536x1017.jpeg 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2022/12/11135653/WhatsApp-Image-2022-12-05-at-09.10.21-1.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -340,7 +347,8 @@
 
 
 <p>IG: @granmaleconbaq<br>TW: granmalecon_baq</p>
- ]]></content:encoded>
+ <p>The post <a href="/en-diciembre-vive-un-mundo-de-suenos-en-el-gran-malecon/">En Diciembre vive un Mundo de Sueños en el Gran Malecón</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		
@@ -352,10 +360,13 @@
 		<dc:creator><![CDATA[Gran Malecón]]></dc:creator>
 		<pubDate>Fri, 26 Nov 2021 22:42:18 +0000</pubDate>
 				<category><![CDATA[Agenda]]></category>
-		<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=2305</guid>
 
-					<description><![CDATA[La magia de la navidad en Barranquilla y su Biodiverciudad son la inspiración del alumbrado navideño en el Gran Malecón en este 2021 El Gran Malecón se ha convertido el punto de llegada de miles de visitantes durante la temporada navideña y qué mejor manera que hacer de este espacio una vitrina de la ciudad y la magia que la<div class="h10"></div><a class="more-link1" href="/vive-una-navidad-magica-en-barranquilla/">Read more</a>]]></description>
+					<description><![CDATA[<p>La magia de la navidad en Barranquilla y su Biodiverciudad son la inspiración del alumbrado navideño en el Gran Malecón en este 2021 El Gran Malecón se ha convertido el punto de llegada de miles de visitantes durante la temporada navideña y qué mejor manera que hacer de este espacio una vitrina de la ciudad y la magia que la</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/vive-una-navidad-magica-en-barranquilla/">Read more</a></p>
+<p>The post <a href="/vive-una-navidad-magica-en-barranquilla/">VIVE UNA NAVIDAD MÁGICA EN BARRANQUILLA</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>La magia de la navidad en Barranquilla y su Biodiverciudad son la inspiración del alumbrado navideño en el Gran Malecón en este 2021</p>
 
@@ -457,12 +468,13 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-42-51-1024x678.jpg" alt="" data-id="2339" data-full-url="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-42-51.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-42-51/" class="wp-image-2339" srcset="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-42-51-1024x678.jpg 1024w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-42-51-300x199.jpg 300w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-42-51-768x508.jpg 768w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-42-51.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-47-1024x678.jpg" alt="" data-id="2341" data-full-url="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-47.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-45-47/" class="wp-image-2341" srcset="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-47-1024x678.jpg 1024w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-47-300x199.jpg 300w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-47-768x508.jpg 768w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-47.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-48-1024x678.jpg" alt="" data-id="2343" data-full-url="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-48.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-45-48/" class="wp-image-2343" srcset="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-48-1024x678.jpg 1024w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-48-300x199.jpg 300w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-48-768x508.jpg 768w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-48.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-42-1024x678.jpg" alt="" data-id="2345" data-full-url="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-42.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-45-42/" class="wp-image-2345" srcset="/wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-42-1024x678.jpg 1024w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-42-300x199.jpg 300w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-42-768x508.jpg 768w, /wp-content/uploads/2021/11/PHOTO-2021-11-30-20-45-42.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135811/PHOTO-2021-11-30-20-42-51-1024x678.jpg" alt="" data-id="2339" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135811/PHOTO-2021-11-30-20-42-51.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-42-51/" class="wp-image-2339" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135811/PHOTO-2021-11-30-20-42-51-1024x678.jpg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135811/PHOTO-2021-11-30-20-42-51-300x199.jpg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135811/PHOTO-2021-11-30-20-42-51-768x508.jpg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135811/PHOTO-2021-11-30-20-42-51.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135810/PHOTO-2021-11-30-20-45-47-1024x678.jpg" alt="" data-id="2341" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135810/PHOTO-2021-11-30-20-45-47.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-45-47/" class="wp-image-2341" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135810/PHOTO-2021-11-30-20-45-47-1024x678.jpg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135810/PHOTO-2021-11-30-20-45-47-300x199.jpg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135810/PHOTO-2021-11-30-20-45-47-768x508.jpg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135810/PHOTO-2021-11-30-20-45-47.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-48-1024x678.jpg" alt="" data-id="2343" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-48.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-45-48/" class="wp-image-2343" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-48-1024x678.jpg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-48-300x199.jpg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-48-768x508.jpg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-48.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="678" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-42-1024x678.jpg" alt="" data-id="2345" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-42.jpg" data-link="/vive-una-navidad-magica-en-barranquilla/photo-2021-11-30-20-45-42/" class="wp-image-2345" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-42-1024x678.jpg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-42-300x199.jpg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-42-768x508.jpg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/11/11135809/PHOTO-2021-11-30-20-45-42.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
 <p></p>
- ]]></content:encoded>
+ <p>The post <a href="/vive-una-navidad-magica-en-barranquilla/">VIVE UNA NAVIDAD MÁGICA EN BARRANQUILLA</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		
@@ -474,10 +486,13 @@
 		<dc:creator><![CDATA[Gran Malecón]]></dc:creator>
 		<pubDate>Wed, 19 May 2021 15:36:49 +0000</pubDate>
 				<category><![CDATA[Agenda]]></category>
-		<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=2004</guid>
 
-					<description><![CDATA[El pasado 17 de mayo en el marco de la celebración del Día Mundial del Reciclaje en alianza eminence labs location con Triple A y Barranquilla Verde se inauguraron y colocaron al servicio de nuestros visitantes dos nuevos puntos de reciclaje. Los nuevos puntos se encuentran ubicados en el Sector Recreo Deportivo, y se suman al Planecón, ubicado en el<div class="h10"></div><a class="more-link1" href="/nuevos-puntos-de-reciclaje-en-el-gran-malecon/">Read more</a>]]></description>
+					<description><![CDATA[<p>El pasado 17 de mayo en el marco de la celebración del Día Mundial del Reciclaje en alianza eminence labs location con Triple A y Barranquilla Verde se inauguraron y colocaron al servicio de nuestros visitantes dos nuevos puntos de reciclaje. Los nuevos puntos se encuentran ubicados en el Sector Recreo Deportivo, y se suman al Planecón, ubicado en el</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/nuevos-puntos-de-reciclaje-en-el-gran-malecon/">Read more</a></p>
+<p>The post <a href="/nuevos-puntos-de-reciclaje-en-el-gran-malecon/">Nuevos puntos de reciclaje en el Gran Malecón</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>El pasado 17 de mayo en el marco de la celebración del Día Mundial del Reciclaje en alianza <a href="https://sites.google.com/view/steroids-usa-net/home/drug-manufacturers/eminence-labs" title="eminence labs location" style="text-decoration:none;color:#333;">eminence labs location</a> con Triple A y Barranquilla Verde se inauguraron y colocaron al servicio de nuestros visitantes dos nuevos puntos de reciclaje.</p>
 
@@ -503,8 +518,9 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-2.jpeg" alt="" data-id="2009" data-full-url="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-2.jpeg" data-link="/?attachment_id=2009" class="wp-image-2009" srcset="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-2.jpeg 1024w, /wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-2-300x200.jpeg 300w, /wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-2-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="637" src="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-1-1.jpeg" alt="" data-id="2011" data-full-url="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-1-1.jpeg" data-link="/?attachment_id=2011" class="wp-image-2011" srcset="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-1-1.jpeg 1024w, /wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-1-1-300x187.jpeg 300w, /wp-content/uploads/2021/05/WhatsApp-Image-2021-05-19-at-10.33.52-1-1-768x478.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
- ]]></content:encoded>
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="683" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-2.jpeg" alt="" data-id="2009" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-2.jpeg" data-link="/?attachment_id=2009" class="wp-image-2009" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-2.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-2-300x200.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-2-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="637" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-1-1.jpeg" alt="" data-id="2011" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-1-1.jpeg" data-link="/?attachment_id=2011" class="wp-image-2011" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-1-1.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-1-1-300x187.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2021/05/11135830/WhatsApp-Image-2021-05-19-at-10.33.52-1-1-768x478.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+ <p>The post <a href="/nuevos-puntos-de-reciclaje-en-el-gran-malecon/">Nuevos puntos de reciclaje en el Gran Malecón</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		
@@ -516,10 +532,13 @@
 		<dc:creator><![CDATA[Gran Malecón]]></dc:creator>
 		<pubDate>Tue, 18 May 2021 20:34:05 +0000</pubDate>
 				<category><![CDATA[Agenda]]></category>
-		<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=2001</guid>
 
-					<description><![CDATA[Fueron semanas de incertidumbre… No veíamos la hora de volver a encender los fogones para cocinarles sus platos favoritos. En casa me preguntaban todos los días cuándo regresaría. ¿Se imaginan? Ya casi un mes de estar extrañándolos… Porque sin duda desde el día 1 estábamos con ansias de volver. Ya no somos ni el cuarto ni la mitad, ya somos<div class="h10"></div><a class="more-link1" href="/ya-no-estamos-hibernando/">Read more</a>]]></description>
+					<description><![CDATA[<p>Fueron semanas de incertidumbre… No veíamos la hora de volver a encender los fogones para cocinarles sus platos favoritos. En casa me preguntaban todos los días cuándo regresaría. ¿Se imaginan? Ya casi un mes de estar extrañándolos… Porque sin duda desde el día 1 estábamos con ansias de volver. Ya no somos ni el cuarto ni la mitad, ya somos</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/ya-no-estamos-hibernando/">Read more</a></p>
+<p>The post <a href="/ya-no-estamos-hibernando/">¡Ya no estamos hibernando!</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Fueron semanas de incertidumbre… No veíamos la hora de volver a encender los fogones para cocinarles sus platos favoritos. En casa me preguntaban todos los días cuándo regresaría. ¿Se imaginan? Ya casi un mes de estar extrañándolos… Porque sin duda desde el día 1 estábamos con ansias de volver.</p>
 
@@ -542,7 +561,8 @@
 
 
 <p>Ya no estamos hibernando, ESTAMOS ABIERTOS<br>Atentamente, el Caimán</p>
- ]]></content:encoded>
+ <p>The post <a href="/ya-no-estamos-hibernando/">¡Ya no estamos hibernando!</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		
@@ -554,7 +574,6 @@
 		<dc:creator><![CDATA[Gran Malecón]]></dc:creator>
 		<pubDate>Wed, 14 Oct 2020 21:59:18 +0000</pubDate>
 				<category><![CDATA[Agenda]]></category>
-		<category><![CDATA[Blog]]></category>
 		<category><![CDATA[activaciones culturales]]></category>
 		<category><![CDATA[ciudad de inmigrantes]]></category>
 		<category><![CDATA[dia de la raza]]></category>
@@ -562,7 +581,11 @@
 		<category><![CDATA[gran malecon]]></category>
 		<guid isPermaLink="false">https://granmalecon.com/?p=1308</guid>
 
-					<description><![CDATA[Desde este sábado 10 de octubre hasta el lunes 12 de octubre, celebramos el día de la raza en el Gran Malecón, con distintas activaciones deportivas y culturales y con toda la amplia oferta gastronómica que hacen homenaje a la cultura de inmigrantes que se respira en la ciudad de Barranquilla. Danza árabe, capoeira, cumbia, artes marciales musicalizadas, hicieron parte<div class="h10"></div><a class="more-link1" href="/fin-de-semana-dia-de-la-raza/">Read more</a>]]></description>
+					<description><![CDATA[<p>Desde este sábado 10 de octubre hasta el lunes 12 de octubre, celebramos el día de la raza en el Gran Malecón, con distintas activaciones deportivas y culturales y con toda la amplia oferta gastronómica que hacen homenaje a la cultura de inmigrantes que se respira en la ciudad de Barranquilla. Danza árabe, capoeira, cumbia, artes marciales musicalizadas, hicieron parte</p>
+<div class="h10"></div>
+<p><a class="more-link1" href="/fin-de-semana-dia-de-la-raza/">Read more</a></p>
+<p>The post <a href="/fin-de-semana-dia-de-la-raza/">Fin de semana Día de la Raza</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Desde este sábado 10 de octubre hasta el lunes 12 de octubre, celebramos el día de la raza en el Gran Malecón, con distintas activaciones deportivas y culturales y con toda la amplia oferta gastronómica que hacen homenaje a la cultura de inmigrantes que se respira en la ciudad de Barranquilla. </p>
 
@@ -580,12 +603,13 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.18.44.jpeg" alt="" data-id="1315" data-full-url="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.18.44.jpeg" data-link="/?attachment_id=1315" class="wp-image-1315" srcset="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.18.44.jpeg 1024w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.18.44-300x200.jpeg 300w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.18.44-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.50-1024x682.jpeg" alt="" data-id="1313" data-full-url="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.50.jpeg" data-link="/?attachment_id=1313" class="wp-image-1313" srcset="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.50-1024x682.jpeg 1024w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.50-300x200.jpeg 300w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.50-768x512.jpeg 768w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.50.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.49-1024x682.jpeg" alt="" data-id="1311" data-full-url="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.49.jpeg" data-link="/?attachment_id=1311" class="wp-image-1311" srcset="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.49-1024x682.jpeg 1024w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.49-300x200.jpeg 300w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.49-768x512.jpeg 768w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.49.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.48-1024x683.jpeg" alt="" data-id="1309" data-full-url="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.48.jpeg" data-link="/?attachment_id=1309" class="wp-image-1309" srcset="/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.48-1024x683.jpeg 1024w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.48-300x200.jpeg 300w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.48-768x512.jpeg 768w, /wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-10.17.48.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="682" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135949/WhatsApp-Image-2020-10-14-at-10.18.44.jpeg" alt="" data-id="1315" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135949/WhatsApp-Image-2020-10-14-at-10.18.44.jpeg" data-link="/?attachment_id=1315" class="wp-image-1315" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135949/WhatsApp-Image-2020-10-14-at-10.18.44.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135949/WhatsApp-Image-2020-10-14-at-10.18.44-300x200.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135949/WhatsApp-Image-2020-10-14-at-10.18.44-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="682" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135950/WhatsApp-Image-2020-10-14-at-10.17.50-1024x682.jpeg" alt="" data-id="1313" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135950/WhatsApp-Image-2020-10-14-at-10.17.50.jpeg" data-link="/?attachment_id=1313" class="wp-image-1313" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135950/WhatsApp-Image-2020-10-14-at-10.17.50-1024x682.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135950/WhatsApp-Image-2020-10-14-at-10.17.50-300x200.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135950/WhatsApp-Image-2020-10-14-at-10.17.50-768x512.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135950/WhatsApp-Image-2020-10-14-at-10.17.50.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="682" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135951/WhatsApp-Image-2020-10-14-at-10.17.49-1024x682.jpeg" alt="" data-id="1311" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135951/WhatsApp-Image-2020-10-14-at-10.17.49.jpeg" data-link="/?attachment_id=1311" class="wp-image-1311" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135951/WhatsApp-Image-2020-10-14-at-10.17.49-1024x682.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135951/WhatsApp-Image-2020-10-14-at-10.17.49-300x200.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135951/WhatsApp-Image-2020-10-14-at-10.17.49-768x512.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135951/WhatsApp-Image-2020-10-14-at-10.17.49.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="683" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135952/WhatsApp-Image-2020-10-14-at-10.17.48-1024x683.jpeg" alt="" data-id="1309" data-full-url="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135952/WhatsApp-Image-2020-10-14-at-10.17.48.jpeg" data-link="/?attachment_id=1309" class="wp-image-1309" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135952/WhatsApp-Image-2020-10-14-at-10.17.48-1024x683.jpeg 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135952/WhatsApp-Image-2020-10-14-at-10.17.48-300x200.jpeg 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135952/WhatsApp-Image-2020-10-14-at-10.17.48-768x512.jpeg 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/10/11135952/WhatsApp-Image-2020-10-14-at-10.17.48.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
 <p></p>
- ]]></content:encoded>
+ <p>The post <a href="/fin-de-semana-dia-de-la-raza/">Fin de semana Día de la Raza</a> appeared first on <a href="/">Gran Malecón del Río</a>.</p>
+]]></content:encoded>
 					
 		
 		

@@ -8,22 +8,22 @@
 	>
 
 <channel>
-	<title>Galería &#8211; Gran Malecón</title>
+	<title>Galería Archives - Gran Malecón del Río</title>
 	<atom:link href="/category/galeria/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/galeria/</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Feb 2024 13:41:32 +0000</lastBuildDate>
-	<language>es</language>
+	<lastBuildDate>Tue, 15 Oct 2024 18:08:11 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/05/cropped-favicon-32x32.png</url>
-	<title>Galería &#8211; Gran Malecón</title>
-	<link>/</link>
+	<url>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/05/11140157/cropped-favicon-32x32.png</url>
+	<title>Galería Archives - Gran Malecón del Río</title>
+	<link>/category/galeria/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
