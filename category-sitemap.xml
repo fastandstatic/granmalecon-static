@@ -2,19 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/category/agenda/</loc>
-		<lastmod>2024-03-15T21:23:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/category/bootcamp-de-programacion/</loc>
-		<lastmod>2023-12-29T12:15:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/category/eventos-en/</loc>
-		<lastmod>2020-08-06T19:06:39+00:00</lastmod>
+		<lastmod>2024-10-23T14:53:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/category/eventos/</loc>
-		<lastmod>2024-03-15T21:23:42+00:00</lastmod>
+		<lastmod>2024-10-23T14:53:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/category/galeria/</loc>
@@ -22,7 +14,7 @@
 	</url>
 	<url>
 		<loc>/category/sin-categorizar/</loc>
-		<lastmod>2023-12-26T15:02:59+00:00</lastmod>
+		<lastmod>2024-10-17T20:08:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/category/uncategorized/</loc>

@@ -209,14 +209,7 @@ li.eventos-top {
     height: 600px;
     padding: 170px 100px 0px 280px;
 }
-body, p, ul, li, span {
-    font-family: 'objectivityregular';
-    color: #0B2935;
-}
-p {
-    line-height: 20px;
-    font-size: 15px;
-}
+
 #row-texto-slide .vc_col-sm-5 p {
     color: #fff;
     font-family: 'objectivitymedium';
@@ -395,10 +388,10 @@ h2 {
 #prox-evento .der-evento {
     color: #fff;
 }
-#prox-evento .der-evento p {
+/*#prox-evento .der-evento p {
     font-size: 18px !important;
     line-height: 20px;
-}
+}*/
 #prox-evento:before {
     content: "";
     min-width: 96.5%;
