@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-10-25T16:26:48+00:00</lastmod>
+		<lastmod>2024-10-25T20:23:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/05/sl-bottom-1024x174.png</image:loc>
 		</image:image>
@@ -574,16 +574,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/home/</loc>
-		<lastmod>2021-02-24T15:59:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/05/borde-azul.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/trazo-blanco.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/que-hacer/zona-gastronomica/</loc>
 		<lastmod>2021-06-01T15:13:24+00:00</lastmod>
 		<image:image>
@@ -757,16 +747,6 @@
 		<lastmod>2024-02-19T19:55:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/home-2/</loc>
-		<lastmod>2024-09-17T20:51:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/05/borde-azul.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/trazo-blanco.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/agenda-old/</loc>
 		<lastmod>2024-10-24T19:51:22+00:00</lastmod>
 	</url>
@@ -807,6 +787,26 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/07/paso5.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/home-2/</loc>
+		<lastmod>2024-10-25T20:22:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/borde-azul.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/trazo-blanco.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/home-old/</loc>
+		<lastmod>2024-10-25T20:22:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/borde-azul.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/trazo-blanco.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
