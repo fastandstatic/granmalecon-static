@@ -11,9 +11,6 @@
     left: 0;
     right: 0;
     top: -10px;
-<<<<<<< HEAD
-}/* End custom CSS */
-=======
 }/* End custom CSS */
 /* Start Custom Fonts CSS */@font-face {
 	font-family: 'Objectivity';
@@ -65,4 +62,3 @@
 	src: url('/wp-content/uploads/2024/10/Objectivity-Thin.woff2') format('woff2');
 }
 /* End Custom Fonts CSS */
->>>>>>> 8de30966279cef896ee0de316db896d500fe74e2

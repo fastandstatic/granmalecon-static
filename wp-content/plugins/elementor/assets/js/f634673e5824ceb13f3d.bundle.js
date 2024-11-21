@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-/*! elementor - v3.25.0 - 03-11-2024 */
-=======
-/*! elementor - v3.25.0 - 12-11-2024 */
->>>>>>> 8de30966279cef896ee0de316db896d500fe74e2
+/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["modules_nested-tabs_assets_js_editor_module_js"],{
 
 /***/ "../modules/nested-tabs/assets/js/editor/module.js":

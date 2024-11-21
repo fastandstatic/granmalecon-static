@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-/*! elementor - v3.25.0 - 03-11-2024 */
-=======
-/*! elementor - v3.25.0 - 12-11-2024 */
->>>>>>> 8de30966279cef896ee0de316db896d500fe74e2
+/*! elementor - v3.25.0 - 20-11-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -27940,7 +27936,16 @@ var EditorBase = /*#__PURE__*/function (_Marionette$Applicati) {
         }
         if (!this.widgetsCache[widgetType].commonMerged && !this.widgetsCache[widgetType].atomic_controls) {
           var _this$widgetsCache$wi;
-          jQuery.extend(this.widgetsCache[widgetType].controls, this.widgetsCache.common.controls);
+          var commonControls = this.widgetsCache.common.controls;
+
+          /**
+           * Filter widgets common controls.
+           *
+           * @param array  commonControls - An array of the default common controls.
+           * @param string widgetType     - The widget type.
+           */
+          commonControls = elementor.hooks.applyFilters('elements/widget/controls/common/default', commonControls, widgetType);
+          jQuery.extend(this.widgetsCache[widgetType].controls, commonControls);
           this.widgetsCache[widgetType].controls = elementor.hooks.applyFilters('elements/widget/controls/common', this.widgetsCache[widgetType].controls, widgetType, this.widgetsCache[widgetType]);
 
           // TODO: Move this code to own file.
@@ -40977,7 +40982,14 @@ module.exports = {
   },
   sanitizeUrl: function sanitizeUrl(url) {
     var isValidUrl = !!url ? (0, _dompurify.isValidAttribute)('a', 'href', url) : false;
-    return isValidUrl ? url : '';
+    if (!isValidUrl) {
+      return '';
+    }
+    try {
+      return encodeURI(url);
+    } catch (e) {
+      return '';
+    }
   }
 };
 
