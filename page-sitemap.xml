@@ -316,22 +316,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/sectores/</loc>
-		<lastmod>2024-11-20T17:27:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DJI_0271_11zon-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/sec-gastronomico-1024x406.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/sec-recreodeportivo-1024x406.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/sec-recreodeportivo-1024x406.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/sobre-nosotros/</loc>
 		<lastmod>2024-11-20T17:28:29+00:00</lastmod>
 		<image:image>
@@ -366,46 +350,6 @@
 		<lastmod>2024-11-20T19:50:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/DSC0406_1_11zon-1024x683.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zona-gastronomica/</loc>
-		<lastmod>2024-11-20T19:51:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/SUNSET-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/MAPA_GM-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0191-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0938-2-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0987-3-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/eb50b8e0-30c0-48d3-9e0a-ed181a2eb8b4-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DJI_0691_11zon-1024x576.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/MAPAS_MANGLARES-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Registro_de_marca_LaMadriguera-e1730411823741.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/ABocasDelRio_logo_-1024x1021.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Registro_de_marca_Jardindelrio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Puntos-Comerciales-Gran-Malecon.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -570,6 +514,68 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/07/cuidanos.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sectores/</loc>
+		<lastmod>2024-11-21T17:25:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DJI_0271_11zon-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/sec-gastronomico-1024x406.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/sec-recreodeportivo-1024x406.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/WhatsApp-Image-2024-02-19-at-15.03.42-1-1024x683.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/zona-gastronomica/</loc>
+		<lastmod>2024-11-21T17:34:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/05/SUNSET-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/MAPA_GM-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0191-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0938-2-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0987-3-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/eb50b8e0-30c0-48d3-9e0a-ed181a2eb8b4-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DJI_0691_11zon-1024x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/MAPAS_MANGLARES-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC0417-3-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/MAPAS_ofertagastronomica_MADRIGUERA.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC0682-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/MAPAS_ofertagastronomica_ABOCAS-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC0460.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DJI_0411-2_11zon-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
