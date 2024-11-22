@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-11-21T16:34:19+00:00</lastmod>
+		<lastmod>2024-11-22T14:55:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/05/sl-bottom-1024x174.png</image:loc>
 		</image:image>
@@ -70,43 +70,6 @@
 		<lastmod>2024-11-20T16:47:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/canchas-deportivas/</loc>
-		<lastmod>2024-11-20T17:03:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-canchas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/ciclobanda/</loc>
-		<lastmod>2024-11-20T17:04:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0734-1024x678.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/ondas-footer.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/como-llegar/</loc>
-		<lastmod>2024-11-20T17:06:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/img-como-llegar.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/MAPA_BAQ_GM-2024.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/estatua-de-shakira/</loc>
-		<lastmod>2024-11-20T17:08:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-25-at-3.17.08-PM-1024x682.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/ondas-footer.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/galeria-y-videos/</loc>
 		<lastmod>2024-11-20T17:09:10+00:00</lastmod>
 	</url>
@@ -167,8 +130,64 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/que-hacer/</loc>
+		<lastmod>2024-11-20T17:23:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/2-act-deportiva.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/3-expo-urbana.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/5-entorno.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/6-recreacion-familiar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/2-act-deportiva.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/3-expo-urbana.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/5-entorno.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/6-recreacion-familiar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sobre-nosotros/</loc>
+		<lastmod>2024-11-22T15:01:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/certificado-trip.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/visibilizar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/comprometer.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/sensibilizar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/nuestro-entorno/</loc>
-		<lastmod>2024-11-20T17:16:16+00:00</lastmod>
+		<lastmod>2024-11-22T15:10:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/07/ave17.png</image:loc>
 		</image:image>
@@ -225,136 +244,34 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/parque-de-agua/</loc>
-		<lastmod>2024-11-20T17:17:44+00:00</lastmod>
+		<loc>/como-llegar/</loc>
+		<lastmod>2024-11-22T15:27:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-parque-de-agua.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/07/img-como-llegar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/MAPA_BAQ_GM-2024.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/parque-de-mascotas/</loc>
-		<lastmod>2024-11-20T17:18:24+00:00</lastmod>
+		<loc>/sectores/</loc>
+		<lastmod>2024-11-22T15:46:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-mascotas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/parques/</loc>
-		<lastmod>2024-11-20T17:18:50+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DJI_0442-1_11zon-1024x683.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/plaza-de-las-luces/</loc>
-		<lastmod>2024-11-20T17:19:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-plaza-luces-1024x466.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/presencia/</loc>
-		<lastmod>2024-11-20T17:21:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-admin.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/que-hacer/</loc>
-		<lastmod>2024-11-20T17:23:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/2-act-deportiva.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/DJI_0271_11zon-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/07/sec-gastronomico-1024x406.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/3-expo-urbana.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/07/sec-recreodeportivo-1024x406.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/5-entorno.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/6-recreacion-familiar.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/2-act-deportiva.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/3-expo-urbana.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/1-recorrido-rio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/5-entorno.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/6-recreacion-familiar.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/rio-embarcaciones/</loc>
-		<lastmod>2024-11-20T17:25:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-rio.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/la-mita.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/asitours.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DJI_0654_11zon-1024x683.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/sobre-nosotros/</loc>
-		<lastmod>2024-11-20T17:28:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/certificado-trip.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/visibilizar.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/comprometer.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/sensibilizar.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zona-de-picnic/</loc>
-		<lastmod>2024-11-20T17:29:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-jardin-nativo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zona-bbq/</loc>
-		<lastmod>2024-11-20T19:23:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/img-zona-bbq.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/cultura-y-deporte/</loc>
-		<lastmod>2024-11-20T19:50:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0406_1_11zon-1024x683.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/WhatsApp-Image-2024-02-19-at-15.03.42-1-1024x683.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/sostenibilidad/</loc>
-		<lastmod>2024-11-20T19:59:05+00:00</lastmod>
+		<lastmod>2024-11-22T15:49:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Group-64.png</image:loc>
 		</image:image>
@@ -456,8 +373,146 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/zona-gastronomica/</loc>
+		<lastmod>2024-11-22T15:55:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/05/SUNSET-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/MAPA_GM-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0191-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0938-2-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0987-3-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/eb50b8e0-30c0-48d3-9e0a-ed181a2eb8b4-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DJI_0691_11zon-1024x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/MAPAS_MANGLARES-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC0417-3-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/MAPAS_ofertagastronomica_MADRIGUERA.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC0682-1024x683.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/MAPAS_ofertagastronomica_ABOCAS-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DSC0460.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DJI_0411-2_11zon-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/parques/</loc>
+		<lastmod>2024-11-22T15:58:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DJI_0442-1_11zon-1024x683.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cultura-y-deporte/</loc>
+		<lastmod>2024-11-22T15:59:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0406_1_11zon-1024x683.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/estatua-de-shakira/</loc>
+		<lastmod>2024-11-22T15:59:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-25-at-3.17.08-PM-1024x682.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/ondas-footer.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/zona-bbq/</loc>
+		<lastmod>2024-11-22T16:00:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-zona-bbq.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rio-embarcaciones/</loc>
+		<lastmod>2024-11-22T16:00:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-rio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/la-mita.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/asitours.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/DJI_0654_11zon-1024x683.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/parque-de-agua/</loc>
+		<lastmod>2024-11-22T16:04:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-parque-de-agua.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/canchas-deportivas/</loc>
+		<lastmod>2024-11-22T16:04:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-canchas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ciclobanda/</loc>
+		<lastmod>2024-11-22T16:04:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/DSC0734-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/ondas-footer.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/parque-de-mascotas/</loc>
+		<lastmod>2024-11-22T16:05:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-mascotas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/zona-de-picnic/</loc>
+		<lastmod>2024-11-22T16:05:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-jardin-nativo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/plaza-de-las-luces/</loc>
+		<lastmod>2024-11-22T16:05:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/img-plaza-luces-1024x466.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/caiman-del-rio/</loc>
-		<lastmod>2024-11-20T21:11:33+00:00</lastmod>
+		<lastmod>2024-11-22T16:08:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Caiman-del-Rio-1024x683.jpg</image:loc>
 		</image:image>
@@ -517,65 +572,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/sectores/</loc>
-		<lastmod>2024-11-21T17:25:37+00:00</lastmod>
+		<loc>/presencia/</loc>
+		<lastmod>2024-11-22T16:09:30+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DJI_0271_11zon-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/sec-gastronomico-1024x406.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/sec-recreodeportivo-1024x406.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/WhatsApp-Image-2024-02-19-at-15.03.42-1-1024x683.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zona-gastronomica/</loc>
-		<lastmod>2024-11-21T17:34:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/SUNSET-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/MAPA_GM-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0191-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0938-2-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DSC0987-3-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/eb50b8e0-30c0-48d3-9e0a-ed181a2eb8b4-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/DJI_0691_11zon-1024x576.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/MAPAS_MANGLARES-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DSC0417-3-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/MAPAS_ofertagastronomica_MADRIGUERA.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DSC0682-1024x683.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/MAPAS_ofertagastronomica_ABOCAS-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DSC0460.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/DJI_0411-2_11zon-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2020/06/img-admin.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
