@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/galeria/</loc>
-		<lastmod>2024-11-01T20:28:15+00:00</lastmod>
+		<lastmod>2024-12-03T22:56:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/galeria/desayuno-salvaje-caiman-del-rio/</loc>
@@ -30,6 +30,34 @@
 		<lastmod>2024-11-01T20:28:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/02/11140105/feria-portada.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/galeria/sector-puerta-de-oro/</loc>
+		<lastmod>2024-12-03T20:36:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/galeria/sector-gastronomico/</loc>
+		<lastmod>2024-12-03T21:43:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/31162126/DJI_0454_11zon-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/galeria/sector-recreodeportivo/</loc>
+		<lastmod>2024-12-03T22:38:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/06094455/carrusel-sostenibilidad-5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/galeria/sector-nativo/</loc>
+		<lastmod>2024-12-03T22:56:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/21122526/WhatsApp-Image-2024-02-19-at-15.03.42-1-scaled.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
