@@ -74,52 +74,6 @@
 		<lastmod>2024-11-20T17:09:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/historia/</loc>
-		<lastmod>2024-11-20T17:09:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/alex.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/hist2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/hist1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/hist3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/paso5.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/nuestra-comunidad/</loc>
 		<lastmod>2024-11-20T17:14:53+00:00</lastmod>
 		<image:image>
@@ -576,6 +530,52 @@
 		<lastmod>2024-11-28T19:15:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/06/img-admin.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/historia/</loc>
+		<lastmod>2024-12-02T22:29:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/alex.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/hist2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/hist1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/hist3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/paso5.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
