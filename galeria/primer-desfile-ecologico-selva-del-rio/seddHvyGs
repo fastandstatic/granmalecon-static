@@ -8,20 +8,22 @@
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	
 	<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Río &amp; embarcaciones - Gran Malecón del Río</title>
-	<link rel="canonical" href="/rio-embarcaciones/">
+	<title>Primer desfile ecológico Selva del Río - Gran Malecón del Río</title>
+	<link rel="canonical" href="/galeria/primer-desfile-ecologico-selva-del-rio/">
 	<meta property="og:locale" content="es_ES">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="Río &amp; embarcaciones - Gran Malecón del Río">
-	<meta property="og:description" content="Río &amp; embarcaciones Desde el sector Puerta de Oro zarpa un recorrido inolvidable por el Río Magdalena. Aquí se encuentra el muelle del Gran Malecón donde visitantes pueden embarcarse en diferentes experiencias para recorrer el Río Magdalena y sus alrededores. La Mita: Un viaje de realismo mágico Con la experiencia que brinda esta embarcación se [&hellip;]">
-	<meta property="og:url" content="/rio-embarcaciones/">
+	<meta property="og:title" content="Primer desfile ecológico Selva del Río - Gran Malecón del Río">
+	<meta property="og:url" content="/galeria/primer-desfile-ecologico-selva-del-rio/">
 	<meta property="og:site_name" content="Gran Malecón del Río">
-	<meta property="article:modified_time" content="2024-11-22T16:00:43+00:00">
-	<meta property="og:image" content="/wp-content/uploads/2020/06/img-rio.png">
+	<meta property="article:modified_time" content="2024-11-01T20:26:24+00:00">
+	<meta property="og:image" content="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140046/selva-rio.jpg">
+	<meta property="og:image:width" content="380">
+	<meta property="og:image:height" content="254">
+	<meta property="og:image:type" content="image/jpeg">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Tiempo de lectura">
-	<meta name="twitter:data1" content="3 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/rio-embarcaciones/","url":"/rio-embarcaciones/","name":"Río & embarcaciones - Gran Malecón del Río","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/rio-embarcaciones/#primaryimage"},"image":{"@id":"/rio-embarcaciones/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2020/06/img-rio.png","datePublished":"2024-10-29T16:34:00+00:00","dateModified":"2024-11-22T16:00:43+00:00","breadcrumb":{"@id":"/rio-embarcaciones/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/rio-embarcaciones/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/rio-embarcaciones/#primaryimage","url":"https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140136/img-rio.png","contentUrl":"https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140136/img-rio.png","width":964,"height":543},{"@type":"BreadcrumbList","@id":"/rio-embarcaciones/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Río & embarcaciones"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Gran Malecón del Río","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"}]}</script>
+	<meta name="twitter:data1" content="1 minuto">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/galeria/primer-desfile-ecologico-selva-del-rio/","url":"/galeria/primer-desfile-ecologico-selva-del-rio/","name":"Primer desfile ecológico Selva del Río - Gran Malecón del Río","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/galeria/primer-desfile-ecologico-selva-del-rio/#primaryimage"},"image":{"@id":"/galeria/primer-desfile-ecologico-selva-del-rio/#primaryimage"},"thumbnailUrl":"https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140046/selva-rio.jpg","datePublished":"2020-02-14T20:04:57+00:00","dateModified":"2024-11-01T20:26:24+00:00","breadcrumb":{"@id":"/galeria/primer-desfile-ecologico-selva-del-rio/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/galeria/primer-desfile-ecologico-selva-del-rio/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/galeria/primer-desfile-ecologico-selva-del-rio/#primaryimage","url":"https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140046/selva-rio.jpg","contentUrl":"https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140046/selva-rio.jpg","width":380,"height":254},{"@type":"BreadcrumbList","@id":"/galeria/primer-desfile-ecologico-selva-del-rio/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Galería","item":"/galeria/"},{"@type":"ListItem","position":3,"name":"Primer desfile ecológico Selva del Río"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Gran Malecón del Río","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -45,6 +47,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		background: none !important;
 		padding: 0 !important;
 	}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" media="all">
 <link rel="stylesheet" id="jet-engine-frontend-css" href="/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.6.0.1" media="all">
 <style id="classic-theme-styles-inline-css">/*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
@@ -63,27 +66,30 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="e-swiper-css" href="/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.10" media="all">
 <link rel="stylesheet" id="widget-image-carousel-css" href="/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.25.10" media="all">
 <link rel="stylesheet" id="widget-text-editor-css" href="/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.10" media="all">
+<link rel="stylesheet" id="widget-gallery-css" href="/wp-content/plugins/pro-elements/assets/css/widget-gallery.min.css?ver=3.25.4" media="all">
+<link rel="stylesheet" id="elementor-gallery-css" href="/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0" media="all">
+<link rel="stylesheet" id="e-transitions-css" href="/wp-content/plugins/pro-elements/assets/css/conditionals/transitions.min.css?ver=3.25.4" media="all">
 <link rel="stylesheet" id="e-popup-style-css" href="/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=3.25.4" media="all">
 <link rel="stylesheet" id="font-awesome-5-all-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.25.10" media="all">
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.25.10" media="all">
-<link rel="stylesheet" id="elementor-post-4678-css" href="/wp-content/uploads/elementor/css/post-4678.css?ver=1733347873" media="all">
 <link rel="stylesheet" id="elementor-post-4417-css" href="/wp-content/uploads/elementor/css/post-4417.css?ver=1733347701" media="all">
 <link rel="stylesheet" id="elementor-post-4362-css" href="/wp-content/uploads/elementor/css/post-4362.css?ver=1733347701" media="all">
+<link rel="stylesheet" id="elementor-post-5157-css" href="/wp-content/uploads/elementor/css/post-5157.css?ver=1733347917" media="all">
 <script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.25.10" id="font-awesome-4-shim-js"></script>
 <script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script>
 <script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.7.1" id="jquery-bind-first-js"></script>
 <script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/sha256.js?ver=0.11.0" id="js-sha256-js"></script>
-<script id="pys-js-extra">var pysOptions = {"staticEvents":[],"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"ga":{"trackingIds":["G-5NNEK2PXJE"],"retargetingLogic":"ecomm","crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"wooVariableAsSimple":true,"isDebugEnabled":[false],"serverContainerUrls":{"G-5NNEK2PXJE":{"enable_server_container":"","server_container_url":"","transport_url":""}},"additionalConfig":{"G-5NNEK2PXJE":{"first_party_collection":true}},"disableAdvertisingFeatures":null,"disableAdvertisingPersonalization":false,"url_passthrough":true,"url_passthrough_filter":true,"custom_page_view_event":false},"debug":"","siteUrl":"","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajax_event":"6720c4ea55","trackUTMs":"1","trackTrafficSource":"1","user_id":"0","enable_lading_page_param":"1","cookie_duration":"7","enable_event_day_param":"1","enable_event_month_param":"1","enable_event_time_param":"1","enable_remove_target_url_param":"1","enable_remove_download_url_param":"1","visit_data_model":"first_visit","last_visit_duration":"60","enable_auto_save_advance_matching":"1","enable_success_send_form":"","enable_automatic_events":"","enable_event_video":"1","ajaxForServerEvent":"1","ajaxForServerStaticEvent":"1","send_external_id":"1","external_id_expire":"180","google_consent_mode":"1","data_persistency":"keep_data","advance_matching_form":{"enable_advance_matching_forms":true,"advance_matching_fn_names":["first_name","first-name","first name","name"],"advance_matching_ln_names":["last_name","last-name","last name"],"advance_matching_tel_names":["phone","tel"],"advance_matching_em_names":[]},"advance_matching_url":{"enable_advance_matching_url":true,"advance_matching_fn_names":[],"advance_matching_ln_names":[],"advance_matching_tel_names":[],"advance_matching_em_names":[]},"track_dynamic_fields":[],"gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"tiktok_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"tiktok_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_tiktok_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"consent_magic_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"direct","TrafficLanding":"\/rio-embarcaciones\/","TrafficUtms":[],"TrafficUtmsId":[],"userDataEnable":true,"userData":{"emails":[],"phones":[],"addresses":[]},"use_encoding_provided_data":true,"use_multiple_provided_data":true},"automatic":{"enable_youtube":true,"enable_vimeo":true,"enable_video":true},"woo":{"enabled":false},"edd":{"enabled":false}};</script>
+<script id="pys-js-extra">var pysOptions = {"staticEvents":[],"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"ga":{"trackingIds":["G-5NNEK2PXJE"],"retargetingLogic":"ecomm","crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"wooVariableAsSimple":true,"isDebugEnabled":[false],"serverContainerUrls":{"G-5NNEK2PXJE":{"enable_server_container":"","server_container_url":"","transport_url":""}},"additionalConfig":{"G-5NNEK2PXJE":{"first_party_collection":true}},"disableAdvertisingFeatures":null,"disableAdvertisingPersonalization":false,"url_passthrough":true,"url_passthrough_filter":true,"custom_page_view_event":false},"debug":"","siteUrl":"","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajax_event":"6720c4ea55","trackUTMs":"1","trackTrafficSource":"1","user_id":"0","enable_lading_page_param":"1","cookie_duration":"7","enable_event_day_param":"1","enable_event_month_param":"1","enable_event_time_param":"1","enable_remove_target_url_param":"1","enable_remove_download_url_param":"1","visit_data_model":"first_visit","last_visit_duration":"60","enable_auto_save_advance_matching":"1","enable_success_send_form":"","enable_automatic_events":"","enable_event_video":"1","ajaxForServerEvent":"1","ajaxForServerStaticEvent":"1","send_external_id":"1","external_id_expire":"180","google_consent_mode":"1","data_persistency":"keep_data","advance_matching_form":{"enable_advance_matching_forms":true,"advance_matching_fn_names":["first_name","first-name","first name","name"],"advance_matching_ln_names":["last_name","last-name","last name"],"advance_matching_tel_names":["phone","tel"],"advance_matching_em_names":[]},"advance_matching_url":{"enable_advance_matching_url":true,"advance_matching_fn_names":[],"advance_matching_ln_names":[],"advance_matching_tel_names":[],"advance_matching_em_names":[]},"track_dynamic_fields":[],"gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"tiktok_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"tiktok_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_tiktok_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"consent_magic_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"direct","TrafficLanding":"\/galeria\/primer-desfile-ecologico-selva-del-rio\/","TrafficUtms":[],"TrafficUtmsId":[],"userDataEnable":true,"userData":{"emails":[],"phones":[],"addresses":[]},"use_encoding_provided_data":true,"use_multiple_provided_data":true},"automatic":{"enable_youtube":true,"enable_vimeo":true,"enable_video":true},"woo":{"enabled":false},"edd":{"enabled":false}};</script>
 <script src="/wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js?ver=10.4.4" id="pys-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/4678">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/galeria/616">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.7.1">
-<link rel="shortlink" href="/?p=4678">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Frio-embarcaciones%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Frio-embarcaciones%2F#038;format=xml">
+<link rel="shortlink" href="/?p=616">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fgaleria%2Fprimer-desfile-ecologico-selva-del-rio%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fgaleria%2Fprimer-desfile-ecologico-selva-del-rio%2F#038;format=xml">
 <meta name="generator" content="Site Kit by Google 1.141.0">
 <meta name="google-site-verification" content="J9LSe0WGF_Zu27edAugMXTqXYgh1skXpY0JCM3GUF18">
 <meta name="generator" content="Elementor 3.25.10; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
@@ -111,7 +117,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
     margin: 0 !important;
 }</style>
 		</head>
-<body class="page-template page-template-elementor_header_footer page page-id-4678 elementor-default elementor-template-full-width elementor-kit-2804 elementor-page elementor-page-4678">
+<body class="galeria-template-default single single-galeria postid-616 elementor-default elementor-kit-2804 elementor-page-5157">
 
 
 <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
@@ -206,134 +212,66 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					</div>
 				</div>
 				</div>
-				<div data-elementor-type="wp-page" data-elementor-id="4678" class="elementor elementor-4678" data-elementor-post-type="page">
-				<div class="elementor-element elementor-element-9d88576 e-flex e-con-boxed e-con e-parent" data-id="9d88576" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div data-elementor-type="single-post" data-elementor-id="5157" class="elementor elementor-5157 elementor-location-single post-616 galeria type-galeria status-publish has-post-thumbnail hentry" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-915b658 e-flex e-con-boxed e-con e-parent" data-id="915b658" data-element_type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-bf4d371 e-con-full e-flex e-con e-child" data-id="bf4d371" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-06f7664 elementor-widget elementor-widget-heading" data-id="06f7664" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-050f91c elementor-widget elementor-widget-text-editor" data-id="050f91c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Río &amp;</h2>		</div>
+							14 febrero, 2020						</div>
 				</div>
-				<div class="elementor-element elementor-element-cb4b3a0 elementor-widget elementor-widget-heading" data-id="cb4b3a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-fe5a0cd elementor-widget elementor-widget-heading" data-id="fe5a0cd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">embarcaciones</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Primer desfile ecológico Selva del Río</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-ef0e18a elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="ef0e18a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-35170f9 elementor-widget elementor-widget-gallery" data-id="35170f9" data-element_type="widget" data-settings="{&quot;columns&quot;:3,&quot;columns_mobile&quot;:2,&quot;aspect_ratio&quot;:&quot;1:1&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns_tablet&quot;:2,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 				<div class="elementor-widget-container">
-							<p>Desde el sector Puerta de Oro zarpa un recorrido inolvidable por el Río Magdalena. Aquí se encuentra el muelle del Gran Malecón donde visitantes pueden embarcarse en diferentes experiencias para recorrer el Río Magdalena y sus alrededores.</p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-16f4c3f e-con-full e-flex e-con e-child" data-id="16f4c3f" data-element_type="container">
-				<div class="elementor-element elementor-element-1cfe09c elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="1cfe09c" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img fetchpriority="high" decoding="async" width="800" height="451" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140136/img-rio.png" class="attachment-large size-large wp-image-353" alt="" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140136/img-rio.png 964w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140136/img-rio-300x169.png 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140136/img-rio-768x433.png 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-b22aa56 e-flex e-con-boxed e-con e-parent" data-id="b22aa56" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-4f3b7bc e-con-full e-flex e-con e-child" data-id="4f3b7bc" data-element_type="container">
-				<div class="elementor-element elementor-element-1da7d35 elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="1da7d35" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img decoding="async" width="800" height="443" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/la-mita.png" class="attachment-large size-large wp-image-359" alt="" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/la-mita.png 959w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/la-mita-300x166.png 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/la-mita-768x425.png 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-301a4a2 e-con-full e-flex e-con e-child" data-id="301a4a2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-63f7483 elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="63f7483" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div class="wpb_text_column wpb_content_element"><div class="wpb_wrapper"><h3>La Mita: Un viaje de realismo mágico</h3></div></div>						</div>
-				</div>
-				<div class="elementor-element elementor-element-9d98bd9 elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="9d98bd9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Con la experiencia que brinda esta embarcación se conoce la historia y la belleza natural de la Puerta de Oro de Colombia con una visión distinta: desde el Río Magdalena. Es un reencuentro con la esencia del Caribe, mientras se disfruta de la música en vivo, un bar y la narración de un guía turístico. Sus recorridos van hasta el puente Pumarejo, zona portuaria, ciénaga de mallorquín, parque Isla Salamanca y Bocas de ceniza, escogido por el grupo de pasajeros. <br>(80 pasajeros para recorrido de 1 – 2 horas):<br>311 3386336<br>@embarcacionlamita</p>						</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-896e6d0 e-flex e-con-boxed e-con e-parent" data-id="896e6d0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-68f1902 e-con-full e-flex e-con e-child" data-id="68f1902" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-9b18fe0 elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="9b18fe0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div class="wpb_text_column wpb_content_element"><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element"><div class="wpb_wrapper"><h3>Asitours: Vive el turismo de naturaleza</h3></div></div></div></div>						</div>
-				</div>
-				<div class="elementor-element elementor-element-cbe8967 elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="cbe8967" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Emprende un verdadero viaje al interior del Parque Isla Salamanca con la asociación de pescadores de almejas que gracias al Proyecto Desarrollo Local Sostenible de Parques Nacionales de Colombia y financiado por la Unión Europea cambiaron su actividad económica de la caza de la almeja por el ecoturismo y el fomento de su cultura fluvial. (20 pasajeros para recorrido de 1 hora o 3 horas):<br>300 407 6934 – 312 677 8037</p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-f7e21f4 e-con-full e-flex e-con e-child" data-id="f7e21f4" data-element_type="container">
-				<div class="elementor-element elementor-element-4e2af61 elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="4e2af61" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img decoding="async" width="800" height="453" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/asitours.png" class="attachment-large size-large wp-image-358" alt="" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/asitours.png 960w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/asitours-300x170.png 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/06/11140135/asitours-768x434.png 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-a63fd7b e-flex e-con-boxed e-con e-parent" data-id="a63fd7b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-0f923f2 e-con-full e-flex e-con e-child" data-id="0f923f2" data-element_type="container">
-				<div class="elementor-element elementor-element-16c8331 elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="16c8331" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="800" height="534" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-1024x683.webp" class="attachment-large size-large wp-image-5039" alt="" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-1024x683.webp 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-300x200.webp 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-768x512.webp 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-1536x1024.webp 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/11/01145447/DJI_0654_11zon-2048x1365.webp 2048w" sizes="(max-width: 800px) 100vw, 800px">													</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-2dfe490 e-con-full e-flex e-con e-child" data-id="2dfe490" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-26c7ce0 elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="26c7ce0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div class="wpb_text_column wpb_content_element"><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element"><div class="wpb_wrapper"><h3><b>RioBús</b></h3></div></div></div></div>						</div>
-				</div>
-				<div class="elementor-element elementor-element-1f3ec22 elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="1f3ec22" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>El Vía Parque Isla Salamanca y el río Magdalena pasan de ser más que una postal, ahora representan conexión. El RioBús llamado ‘Karakalí&#8217; (Gran Río de los Caimanes), es una embarcación de tipo fluvial cuya función es operar como medio de transporte público sobre el río Magdalena.<br>El RioBús marca una nueva conexión con el río Magdalena y el nombre de su primera embarcación es Karakalí como un llamado al pasado de sus pobladores que maniobraban con técnica y sabiduría el “gran río de caimanes”.</p>
-<p>Cada pasajero es un navegante que rescata su esencia histórica.</p>
-<p>#SaberNavegar es<br>1. Conocer la ruta y sus tiempos de salida.<br>2. Llegar puntual y embarcar de manera ordenada.<br>3. Respetar el gran río de caimanes manteniendo sus aguas limpias.<br>4. Prudencia y respeto por la vida siguiendo todas las recomendaciones de seguridad.</p>
-<p>Esto es lo que debes saber antes de planificar tu viaje:</p>
-<p>Mantente informado del RioBús en @granmaleconbaq<br>La única paradas del RioBús es:<br>Muelle sector Puerta de Oro del Gran Malecón (Avenida del Río con calle 78)</p>
-<p>El RioBús:<br>No ofrece paquetes turísticos o recorridos bajo reservas.<br>No maneja una capacidad mínima para zarpar con tiempo de espera.<br>No modifica su frecuencia, ruta o sitios de parada.</p>						</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>
-				<div data-elementor-type="footer" data-elementor-id="4362" class="elementor elementor-4362 elementor-location-footer" data-elementor-post-type="elementor_library">
-			<div class="elementor-element elementor-element-7445580 e-con-full e-flex e-con e-parent" data-id="7445580" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-		<div class="elementor-element elementor-element-fa93b96 e-con-full e-flex e-con e-child" data-id="fa93b96" data-element_type="container">
-				<div class="elementor-element elementor-element-429a256 elementor-widget__width-inherit elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="429a256" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img width="3921" height="417" src="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01.png" class="attachment-full size-full wp-image-4515" alt="" srcset="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01.png 3921w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01-300x32.png 300w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01-1024x109.png 1024w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01-768x82.png 768w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01-1536x163.png 1536w, https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/10/23121036/MAPA-GM-curvas-01-2048x218.png 2048w" sizes="(max-width: 3921px) 100vw, 3921px">													</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-48f79d8 e-flex e-con-boxed e-con e-child" data-id="48f79d8" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-457ce4e e-con-full e-flex e-con e-child" data-id="457ce4e" data-element_type="container">
-				<div class="elementor-element elementor-element-dcd419c elementor-widget elementor-widget-heading" data-id="dcd419c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Qué Hacer</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ddfb3e9 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="ddfb3e9" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
-				<div class="elementor-widget-container">
-						<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-ddfb3e9" class="elementor-nav-menu sm-vertical">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4604"><a href="/agenda/" class="elementor-item">Agenda</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5011"><a href="/zona-gastronomica/" class="elementor-item">Locales Comerciales</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5044"><a href="/que-hacer/" class="elementor-item">Que Hacer</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5247"><a href="/galeria-y-videos/" class="elementor-item">Talento &#038; presentaciones</a></li>
-</ul>			</nav>
-						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-ddfb3e9" class="elementor-nav-menu sm-vertical">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4604"><a href="/agenda/" class="elementor-item" tabindex="-1">Agenda</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5011"><a href="/zona-gastronomica/" class="elementor-item" tabindex="-1">Locales Comerciales</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5044"><a href="/que-hacer/" class="elementor-item" tabindex="-1">Que Hacer</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5247"><a href="/galeria-y-videos/" class="elementor-item" tabindex="-1">Talento &#038; presentaciones</a></li>
-</ul>			</nav>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-3c993c0 e-con-full e-flex e-con e-child" data-id="3c993c0" data-element_type="container">
-				<div class="elementor-element elementor-element-e65469d elementor-widget elementor-widget-heading" data-id="e65469d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Blog</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8f3453f elementor-nav-menu--dropdown-none elementor-nav-menu__align-start elementor-widget elementor-widget-nav-menu" data-id="8f3453f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140045/IMG_9406.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9406" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzA3LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0NVwvSU1HXzk0MDYuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140045/IMG_9406.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140044/IMG_9408.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9408" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzA5LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0NFwvSU1HXzk0MDguanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140044/IMG_9408.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140044/IMG_9280.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9280" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzExLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0NFwvSU1HXzkyODAuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140044/IMG_9280.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140043/IMG_9285.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9285" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzE0LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0M1wvSU1HXzkyODUuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140043/IMG_9285.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140042/IMG_9295-rotated.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9295" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzE1LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0MlwvSU1HXzkyOTUtcm90YXRlZC5qcGciLCJzbGlkZXNob3ciOiIzNTE3MGY5In0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140042/IMG_9295-rotated.jpg" data-width="1080" data-height="1620" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140041/IMG_9306.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9306" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzE3LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0MVwvSU1HXzkzMDYuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140041/IMG_9306.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140040/IMG_9313.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9313" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzE5LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDA0MFwvSU1HXzkzMTMuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140040/IMG_9313.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140038/IMG_9317.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9317" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzIxLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDAzOFwvSU1HXzkzMTcuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140038/IMG_9317.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140038/IMG_9344.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9344" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzIzLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDAzOFwvSU1HXzkzNDQuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140038/IMG_9344.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140037/IMG_9347.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9347" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzI1LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDAzN1wvSU1HXzkzNDcuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140037/IMG_9347.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140036/IMG_9356.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9356" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzI3LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDAzNlwvSU1HXzkzNTYuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140036/IMG_9356.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140034/IMG_9364.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9364" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzI5LCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWdyYW5tYWxlY29uLnMzLmFtYXpvbmF3cy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjBcLzA3XC8xMTE0MDAzNFwvSU1HXzkzNjQuanBnIiwic2xpZGVzaG93IjoiMzUxNzBmOSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140034/IMG_9364.jpg" data-width="1620" data-height="1080" aria-label="" role="img"></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2020/07/11140033/IMG_9367.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="35170f9" data-elementor-lightbox-title="IMG_9367" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzMxLCJ1cmwiOi
