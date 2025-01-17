@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2024-12-17T19:48:37+00:00</lastmod>
+		<lastmod>2025-01-14T20:00:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/llegada-del-buque-escuela-arc-gloria-al-gran-malecon/</loc>
@@ -497,6 +497,13 @@
 		<lastmod>2024-12-17T19:48:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/12/06144452/cc125d73-5d0d-4c62-8f33-8a42151a7fcb-scaled.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/tres-operadores-autorizados-seran-los-encargados-de-ofrecer-el-servicio-de-patinetas-en-el-gran-malecon/</loc>
+		<lastmod>2025-01-14T20:00:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/14145040/Patinetas-Gran-Malecon-1.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
