@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/eventos/</loc>
-		<lastmod>2025-01-17T14:48:39+00:00</lastmod>
+		<lastmod>2025-01-22T15:48:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/eventos/banda-de-musicos-escuela-naval-de-suboficiales-barranquilla/</loc>
@@ -1308,6 +1308,20 @@
 		<lastmod>2025-01-17T14:48:39+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/17094611/19-ENE-ENSAYO-SOBERANA_WEB.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/leamos-a-rin-rin-2/</loc>
+		<lastmod>2025-01-22T15:41:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/12/04105534/LEAMOS-RIN-RIN-6-DIC.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/ensayo-marimondas-bacanas/</loc>
+		<lastmod>2025-01-22T15:48:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/22104729/24-ENE-MARIMONDAS-BACANAS_WEB-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
