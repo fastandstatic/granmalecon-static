@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/eventos/</loc>
-		<lastmod>2025-01-22T15:48:15+00:00</lastmod>
+		<lastmod>2025-01-31T16:42:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/eventos/banda-de-musicos-escuela-naval-de-suboficiales-barranquilla/</loc>
@@ -1269,13 +1269,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/eventos/jornada-de-prevencion-y-promocion-de-salud/</loc>
-		<lastmod>2024-12-06T16:27:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/03/11135440/image00014-e1710537640118.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/eventos/leamos-a-rin-rin/</loc>
 		<lastmod>2024-12-06T20:33:01+00:00</lastmod>
 		<image:image>
@@ -1311,10 +1304,45 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/eventos/jornada-de-prevencion-y-promocion-de-salud/</loc>
+		<lastmod>2025-01-27T16:39:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2024/03/11135440/image00014-e1710537640118.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/eventos/ensayo-marimondas-bacanas/</loc>
-		<lastmod>2025-01-22T15:48:15+00:00</lastmod>
+		<lastmod>2025-01-27T17:26:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/22104729/24-ENE-MARIMONDAS-BACANAS_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/selva-a-la-calle/</loc>
+		<lastmod>2025-01-31T16:07:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/31110700/1-FEB-SELVA-A-LA-CALLE_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/ensayo-tronco-e-marimonda/</loc>
+		<lastmod>2025-01-31T16:16:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/31111550/31-ENE-TRONCO-E-MARIMONDA_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/bailalo-barranquilla-con-matumbe/</loc>
+		<lastmod>2025-01-31T16:25:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/31112504/2-FEB-BAILALO-BAQ_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/raices-de-m-tambo/</loc>
+		<lastmod>2025-01-31T16:42:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/31114058/2-FEB-CUMBIA-TAMBO_WEB-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
