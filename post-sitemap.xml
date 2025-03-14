@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-03-14T18:43:53+00:00</lastmod>
+		<lastmod>2025-03-14T19:05:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/llegada-del-buque-escuela-arc-gloria-al-gran-malecon/</loc>
@@ -522,7 +522,7 @@
 	</url>
 	<url>
 		<loc>/blog/agosto-el-mes-delos-riolovers-en-el-gran-malecon/</loc>
-		<lastmod>2025-03-14T18:43:53+00:00</lastmod>
+		<lastmod>2025-03-14T19:05:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2023/08/11135543/WhatsApp-Image-2023-08-11-at-4.46.17-PM.jpeg</image:loc>
 		</image:image>
