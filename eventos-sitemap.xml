@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/eventos/</loc>
-		<lastmod>2025-01-31T16:42:04+00:00</lastmod>
+		<lastmod>2025-04-09T21:09:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/eventos/rumbaterapia-mujeres-con-tumabo/</loc>
@@ -111,9 +111,72 @@
 	</url>
 	<url>
 		<loc>/eventos/raices-de-m-tambo/</loc>
-		<lastmod>2025-01-31T16:42:04+00:00</lastmod>
+		<lastmod>2025-04-08T21:18:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/01/31114058/2-FEB-CUMBIA-TAMBO_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/selva-a-la-calle-2/</loc>
+		<lastmod>2025-04-08T21:37:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/08163544/8-FEB-SELVA-A-LA-CALLE_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/exposicion-macrofiguras-de-carnaval/</loc>
+		<lastmod>2025-04-08T21:52:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/08164954/12-FEB-MACROFIGURAS_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/carnaval-petlovers/</loc>
+		<lastmod>2025-04-08T22:02:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/08165844/15-y-16-FEB-PETLOVERS_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/presentaciones-folcloricas/</loc>
+		<lastmod>2025-04-08T22:27:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/08172646/16-FEB-PRESENTACIONES-FOLCLORICAS_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/ensayo-grupo-de-danza-bambazu/</loc>
+		<lastmod>2025-04-08T22:38:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/08173753/23-FEB-ENSAYO-BAMBAZU_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/musicarnaval/</loc>
+		<lastmod>2025-04-09T20:26:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/09152632/27-FEB-MUSICARNAVAL_WEB-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/viajeros-de-la-flauta-de-millo/</loc>
+		<lastmod>2025-04-09T20:41:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/09154038/VIAJEROS-FLAUTA-8-MAR.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/5796/</loc>
+		<lastmod>2025-04-09T20:55:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/09155401/6-ABRIL-BAILALE-A-BAQ-web.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eventos/bailale-a-barranquilla/</loc>
+		<lastmod>2025-04-09T21:09:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-granmalecon.s3.amazonaws.com/wp-content/uploads/2025/04/09160740/WhatsApp-Image-2025-04-02-at-14.52.50-scaled.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
